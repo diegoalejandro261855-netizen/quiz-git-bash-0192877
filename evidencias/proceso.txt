@@ -1,0 +1,1 @@
+comenzamos configurando el git para depues comenzar creando las carpetas y el repositorio en github y empezamos a crear todos los archivos dentro de las carpetas

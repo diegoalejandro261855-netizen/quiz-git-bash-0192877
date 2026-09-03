@@ -1,0 +1,1 @@
+mkdir,git init,touch,rm,git config,echo,gitlog,ls
