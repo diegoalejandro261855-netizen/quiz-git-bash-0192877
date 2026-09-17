@@ -12,3 +12,24 @@ body{
     font-size: 1.2rem;
     font-weight: bold;
 }
+
+.loading__author {
+    font-weight:normal;
+    font-size: 0.9rem;
+    color: rgba(141,141,193,1)
+    margin: 0.6rem 0 2rem 0
+}
+
+.loading__anim {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    border: 5px solid rgba(7, green, blue, alpha);
+    border-left-color: rgba(red, green, blue, alpha);
+    border-top-color: rgba(red, green, blue, alpha);
+    border-radius: 50%;
+    animation:rotate 600ms infinite linear ;
+
+
+
+}
